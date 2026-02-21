@@ -10,8 +10,8 @@ interface NameSpinnerProps {
 
 const ITEM_HEIGHT = 56;
 const VISIBLE_ITEMS = 7;
-const SPIN_ITEMS = 50;
-const SPIN_DURATION = 4;
+const SPIN_ITEMS = 120;
+const SPIN_DURATION = 8;
 
 export default function NameSpinner({
   names,
